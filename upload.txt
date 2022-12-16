@@ -1,0 +1,10 @@
+abc@gmail.com,9876543210,Bihar
+abc1@gmail.com,9876543211,Asam
+abc2@gmail.com,9876543212,Punjab
+abc3@gmail.com,9876543213,Sikkim
+abc4@gmail.com,9876543214,Manipur
+abc5@gmail.com,9876543215,Goa
+abc6@gmail.com,9876543216,Delhi
+abc7@gmail.com,9876543217,Gujrat
+abc8@gmail.com,9876543218,Himachal Pradesh
+abc9@gmail.com,9876543219,UP
